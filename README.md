@@ -10,5 +10,5 @@ Project is created with:
 * Html5
 * CSS
 * JavaScript
-##Photos of Netflix Clone site
+## Photos of Netflix Clone site
 
