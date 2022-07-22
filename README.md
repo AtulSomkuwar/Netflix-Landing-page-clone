@@ -26,3 +26,8 @@ Project is created with:
 ## Profile for Children
 ![children](https://user-images.githubusercontent.com/102819825/180517099-ce16107d-588e-47b9-96b9-808c3dae898a.png)
 
+## Frequently Asked Questions
+![frequenty](https://user-images.githubusercontent.com/102819825/180517384-e8acfbcc-8c43-480f-9d9d-975e016daac2.png)
+
+## Footer Section
+![footer](https://user-images.githubusercontent.com/102819825/180517483-5566a932-56dc-41d0-955e-29401f0e88cc.png)
