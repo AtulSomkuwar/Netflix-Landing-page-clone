@@ -11,4 +11,7 @@ Project is created with:
 * CSS
 * JavaScript
 ## Photos of Netflix Clone site
+## Home Page (Header Section )
+![main page](https://user-images.githubusercontent.com/102819825/180515755-9b078e64-02e5-48bb-90fe-48f21745b3db.png)
+
 
