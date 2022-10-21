@@ -654,10 +654,9 @@ footer .last-container .middle-box{
       text-align: center;
       
     }
-  
+
   }
-  
-  @media only screen and (max-width:377px) {
+   @media only screen and (max-width:377px) {
     .mainpage .main-section{
       width: 100%;
       align-items: center;
@@ -701,7 +700,7 @@ footer .last-container .middle-box{
       text-align: center;
     }
     .main-section .section-container .right-column{
-      width: 100%;
+      width: 90%;
       text-align: center;
     }
     .main-section .section2-container{
@@ -716,5 +715,26 @@ footer .last-container .middle-box{
       width: 100%;
       text-align: center;
     }
-  }
+    .last-container .middle-box{
+        width: 100%;
+        padding: 5px;
+        /* text-align: center; */
+        align-items: center;
+        justify-content: center;
+        text-align: initial;
+        margin-left:-10px;
+       display:grid;
+      }
+      footer h4{
+        margin-left:50px;
+        width:200px;
+        text-align:center;
+        align-items: center;
+        justify-content: center;
+      }
+     
+    }
   
+
+  
+ 
